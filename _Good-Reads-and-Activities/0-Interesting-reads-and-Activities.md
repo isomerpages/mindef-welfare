@@ -14,7 +14,7 @@ https://thewedmag.com/not-sure-what-to-do-with-your-wedding-plans/
 
 https://www.gov.sg/article/tips-for-battling-stress-and-anxiety-during-covid-19
 
-**Online shopping during COVID? How do you manage your expenses?**
+**Enjoying all the online shopping during COVID? How do you manage your expenses?**
 
 https://www.mymoneysense.gov.sg/covid-19/expense-manager?gclid=EAIaIQobChMIzY3-1_qQ7QIVSSQrCh23bQAtEAAYASAAEgK3pvD_BwE
 
