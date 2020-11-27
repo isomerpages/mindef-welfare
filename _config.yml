@@ -18,9 +18,6 @@ colors:
 collections:
   good-deals-for-everyone:
     output: true
-  good-lobang-for-families:
-    permalink: '/:collection/:path/:title'
-    output: true
   Good-Reads-and-Activities:
     permalink: '/:collection/:path/:title'
     output: true
