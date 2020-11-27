@@ -2,11 +2,11 @@
 title: Good Deals For Couples
 permalink: /good-deals-for-couples/schoolholidaysspecial
 ---
-**Wedding Planning Services**
+## **Wedding Planning Services**
 
 ![](/images/B2 - YWCA Banquet.png)
 
- **Staycation Offers**
+##  **Staycation Offers**
 
 ![](/images/Mandarin Oriental.png)
 
