@@ -25,10 +25,10 @@ collections:
   Year-End-e-Bazaar:
     permalink: '/:collection/:path/:title'
     output: true
-  Good-Deals-For-Couples:
+  For-Families:
     permalink: '/:collection/:path/:title'
     output: true
-  For-Families:
+  For-Couples:
     permalink: '/:collection/:path/:title'
     output: true
 description: An Isomer site of the Singapore Government
