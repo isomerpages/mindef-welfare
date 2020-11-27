@@ -22,13 +22,13 @@ collections:
   For-Families:
     permalink: '/:collection/:path/:title'
     output: true
-  For-Couples:
-    permalink: '/:collection/:path/:title'
-    output: true
   For-Everyone:
     permalink: '/:collection/:path/:title'
     output: true
   good-reads-and-activities:
+    permalink: '/:collection/:path/:title'
+    output: true
+  for-couples:
     permalink: '/:collection/:path/:title'
     output: true
 description: An Isomer site of the Singapore Government
