@@ -2,15 +2,15 @@
 title: Check out the deals that you can bring your family to!
 permalink: /good-lobang-for-families/schoolholidaysspecial
 ---
-## Singapore Discovery Centre Membership
+#### Singapore Discovery Centre Membership
 
 ![](/images/A1 - SDC Membership - EDM.jpg)
 
-## Cooking Classes
+#### Cooking Classes
 
 ![](/images/A4 - Palate Sensations.png)
 
-## Staycation Options
+#### Staycation Options
 
 ![](/images/A2 - YWCA Staycation.png)
 
