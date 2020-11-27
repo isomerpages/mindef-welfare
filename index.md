@@ -12,8 +12,4 @@ sections:
         Check out the tabs for fun-filled activities specially curated for you
         and your family
       background: /images/resort_Cow.jpg
-      key_highlights:
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
 ---
