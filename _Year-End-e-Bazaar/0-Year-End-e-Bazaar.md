@@ -2,10 +2,9 @@
 title: Year End e-Bazaar
 permalink: /Year-End-e-Bazaar/yrendebazaar
 ---
-
 ![](/images/ebazaar.png)
 
-Click on the links below  for more information/ordering purposes:  
+Click on the links below  for more information/order forms:  
 [Holiday Inn Atrium](https://holiday-inn-singapore-atrium-estore.myshopify.com/collections/christmas-collection)   
 [Swissotel](https://docs.google.com/forms/d/e/1FAIpQLScFQjdQyRiapUhBQBoNBqXvturRZk-_npWPQWFa13sC6HjQSA/viewform?gxids=7757)  
 [The Wine & Gourmet Friends](https://twgf.sg/)  
