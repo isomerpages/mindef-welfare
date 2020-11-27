@@ -16,9 +16,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
-  Good-Reads-and-Activities:
-    permalink: '/:collection/:path/:title'
-    output: true
   good-deals-for-couples:
     permalink: '/:collection/:path/:title'
     output: true
