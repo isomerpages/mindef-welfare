@@ -17,3 +17,5 @@ permalink: /good-deals-for-couples/schoolholidaysspecial
 ![](/images/B3 - Soloha_MINDEFpromo.jpg)
 
 ![](/images/Hotel Oasia.png)
+
+![](/images/amoy Hotel.png)
