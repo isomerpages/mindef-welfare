@@ -24,6 +24,9 @@ collections:
   good-deals-for-couples:
     permalink: '/:collection/:path/:title'
     output: true
+  good-lobang-for-families:
+    permalink: '/:collection/:path/:title'
+    output: true
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ''
