@@ -16,8 +16,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
-  good-deals-for-everyone:
-    output: true
   Good-Reads-and-Activities:
     permalink: '/:collection/:path/:title'
     output: true
