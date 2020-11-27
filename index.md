@@ -11,5 +11,5 @@ sections:
       subtitle: >-
         Check out the tabs for fun-filled activities specially curated for you
         and your family
-      background: /images/resort_Cow.jpg
+      background: /images/webbanner.jpg
 ---
