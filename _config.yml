@@ -16,9 +16,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
-  good-lobang-for-families:
-    permalink: '/:collection/:path/:title'
-    output: true
   good-deals-for-everyone:
     permalink: '/:collection/:path/:title'
     output: true
@@ -29,6 +26,9 @@ collections:
     permalink: '/:collection/:path/:title'
     output: true
   Good-Deals-For-Couples:
+    permalink: '/:collection/:path/:title'
+    output: true
+  For-Families:
     permalink: '/:collection/:path/:title'
     output: true
 description: An Isomer site of the Singapore Government
