@@ -16,8 +16,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
-  good-deals-for-couples:
-    output: true
   good-deals-for-everyone:
     output: true
   good-lobang-for-families:
