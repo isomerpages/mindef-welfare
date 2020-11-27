@@ -4,5 +4,19 @@
 #                                #
 ##################################
 
+logo: /images/isomer-logo.svg
 
-
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Good Reads and Activities
+    collection: good-reads-and-activities
+  - title: For Couples
+    collection: for-couples
+  - title: For Families
+    collection: for-families
+  - title: For Everyone
+    collection: for-everyone
+  - title: Year End E-Bazaar
+    collection: year-end-e-bazaar
+  
