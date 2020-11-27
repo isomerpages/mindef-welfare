@@ -1,5 +1,5 @@
 ---
-title: Good Deals For Couples
+title: good deals for couples
 permalink: /good-deals-for-couples/schoolholidaysspecial
 ---
 ## **Wedding Planning Services**
