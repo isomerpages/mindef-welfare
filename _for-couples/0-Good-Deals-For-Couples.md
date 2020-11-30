@@ -1,7 +1,8 @@
 ---
-title: good deals for couples
-permalink: /good-deals-for-couples/schoolholidaysspecial
+title: Good Deals For Couples
+permalink: /for-couples/schoolholidaysspecial
 ---
+
 #### Wedding Planning/Banquet Options
 
 ![](/images/Wedding Planning Services.png)
