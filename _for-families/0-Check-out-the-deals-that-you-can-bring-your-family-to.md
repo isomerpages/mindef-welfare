@@ -6,6 +6,10 @@ permalink: /good-lobang-for-families/schoolholidaysspecial
 
 ![](/images/A1 - SDC Membership - EDM.jpg)
 
+#### Kayak Fishing
+
+![](/images/WhatsApp Image 2020-11-30 at 10.11.17 AM.jpeg)
+
 #### Cooking Classes
 
 ![](/images/A4 - Palate Sensations.png)
