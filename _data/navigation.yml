@@ -6,7 +6,7 @@
 
 logo: /images/safpsc.jpg
 links:
-    - title: Good Reads and Activities
+  - title: Good Reads and Activities
     collection: good-reads-and-activities
   - title: For Couples
     collection: for-couples
