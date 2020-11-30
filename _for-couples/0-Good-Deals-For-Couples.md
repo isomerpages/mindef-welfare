@@ -10,7 +10,7 @@ permalink: /good-deals-for-couples/schoolholidaysspecial
 
 #### Staycation Offers
 
-![](/images/Mandarin Oriental.png)
+![](/images/Mandarin Oriental2.png)
 
 ![](/images/B4. RitzCarlton.jpg)
 
