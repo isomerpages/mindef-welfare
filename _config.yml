@@ -31,6 +31,9 @@ collections:
   year-end-e-bazaar:
     permalink: '/:collection/:path/:title'
     output: true
+  contact-us:
+    permalink: '/:collection/:path/:title'
+    output: true
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ''
