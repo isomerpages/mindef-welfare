@@ -2,7 +2,9 @@
 title: good deals for couples
 permalink: /good-deals-for-couples/schoolholidaysspecial
 ---
-#### Wedding Planning Services
+#### Wedding Planning/Banquet Options
+
+![](/images/Wedding Planning Services.png)
 
 ![](/images/B2 - YWCA Banquet.png)
 
@@ -11,8 +13,6 @@ permalink: /good-deals-for-couples/schoolholidaysspecial
 ![](/images/Mandarin Oriental.png)
 
 ![](/images/B4. RitzCarlton.jpg)
-
-![](/images/Wedding Planning Services.png)
 
 ![](/images/B3 - Soloha_MINDEFpromo.jpg)
 
