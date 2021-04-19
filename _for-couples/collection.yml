@@ -1,0 +1,5 @@
+collections:
+  for-couples:
+    output: true
+    order:
+      - good-deals-for-couples.md

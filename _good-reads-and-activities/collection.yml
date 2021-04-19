@@ -1,0 +1,5 @@
+collections:
+  good-reads-and-activities:
+    output: true
+    order:
+      - interesting-reads-events.md

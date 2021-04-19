@@ -1,0 +1,5 @@
+collections:
+  for-families:
+    output: true
+    order:
+      - check-out-the-deals-that-you-can-bring-your-family-to.md
