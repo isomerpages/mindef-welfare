@@ -1,0 +1,5 @@
+collections:
+  for-everyone:
+    output: true
+    order:
+      - look-no-further-for-good-deals.md

@@ -1,0 +1,5 @@
+collections:
+  year-end-e-bazaar:
+    output: true
+    order:
+      - year-end-e-bazaar.md

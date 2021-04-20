@@ -15,25 +15,6 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-collections:
-  good-reads-and-activities:
-    permalink: '/:collection/:path/:title'
-    output: true
-  for-couples:
-    permalink: '/:collection/:path/:title'
-    output: true
-  for-families:
-    permalink: '/:collection/:path/:title'
-    output: true
-  for-everyone:
-    permalink: '/:collection/:path/:title'
-    output: true
-  year-end-e-bazaar:
-    permalink: '/:collection/:path/:title'
-    output: true
-  contact-us:
-    permalink: '/:collection/:path/:title'
-    output: true
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ''
@@ -62,8 +43,11 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+staging: https://mindef-welfare-staging.netlify.app
+prod: https://mindef-welfare-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
